@@ -1633,8 +1633,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-    &lt;h1&gt;自評&lt;/h1&gt;
-    &lt;p&gt;自評90分&lt;/p&gt;
+    &lt;h1&gt;自評與心得&lt;/h1&gt;
+    &lt;p&gt;心得：第一次接觸solvespace時非常棘手，但其實非常簡單，越來越得心應手，圖畫起來也是非常簡單，solvespace是個簡易的3D繪圖工具，用於及時構圖非常實用，因此拍個影片製作製圖過程，自評90分&lt;/p&gt;
     &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務一&lt;/a&gt;
 &lt;/section&gt;		
 </t>
